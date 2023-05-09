@@ -304,5 +304,6 @@ plt.show()
 ![image](https://github.com/ATHDY005/Ex-07-Feature-Selection/assets/84709944/1b214e42-ba18-4742-8d7e-f85f7d7c7289)
 ![image](https://github.com/ATHDY005/Ex-07-Feature-Selection/assets/84709944/d885b0d8-80b1-473a-94ef-1e03cd941bda)
 
+
 # RESULT 
 The various feature selection techniques are performed on a dataset and saved the data to a file.
